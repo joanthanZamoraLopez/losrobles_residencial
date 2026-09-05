@@ -1,0 +1,36 @@
+{
+  "sprint": {
+    "numero": 1,
+    "nombre": "Lanzamiento Base y Gestión de Pagos",
+    "meta": "Desplegar el portal interactivo funcional con maquetación de Los Robles, consulta de estado de cuenta de mantenimiento y formulario de contacto con administración.",
+    "capacidadHoras": 100,
+    "backlogItems": [
+      {
+        "id": "US-01",
+        "titulo": "Diseño UI/UX y Layout Base",
+        "puntos": 5,
+        "subtareas": [
+          {"id": "ST-101", "descripcion": "Crear Header y Navbar interactivo en React", "horas": 8},
+          {"id": "ST-102", "descripcion": "Diseñar paleta de colores y componentes estilizados", "horas": 6}
+        ]
+      },
+      {
+        "id": "US-03",
+        "titulo": "Módulo de Pagos de Mantenimiento",
+        "puntos": 8,
+        "subtareas": [
+          {"id": "ST-301", "descripcion": "Componente React para la vista de estados de cuenta", "horas": 12},
+          {"id": "ST-302", "descripcion": "Formulario de pago y simulación de transacción", "horas": 14}
+        ]
+      },
+      {
+        "id": "US-04",
+        "titulo": "Contacto con Administración",
+        "puntos": 5,
+        "subtareas": [
+          {"id": "ST-401", "descripcion": "Componente React para recepción de PQRS y solicitudes", "horas": 10}
+        ]
+      }
+    ]
+  }
+}
