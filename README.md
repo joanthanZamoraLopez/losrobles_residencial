@@ -7,13 +7,4 @@ Portal web integral para residentes de **Residencial Los Robles**, que permite l
 * **Metodología:** Scrum.
 * **Control de Versiones:** Git & GitHub.
 
-## Instalación y Ejecución Local
-1. Clonar el repositorio:
-   `git clone https://github.com/tu-usuario/residencial-los-robles.git`
-2. Instalar dependencias:
-   `npm install`
-3. Iniciar el servidor de desarrollo:
-   `npm run dev`
 
-## Documentación del Proyecto
-Los artefactos del proyecto, incluyendo la planificación del Sprint 1 (`sprint-1-plan.json`), se encuentran en la carpeta `/docs`.
